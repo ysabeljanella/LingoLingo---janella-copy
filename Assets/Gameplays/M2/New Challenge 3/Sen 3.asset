@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7f7ec01eb97f254cb423600df9b69e2, type: 3}
+  m_Name: Sen 3
+  m_EditorClassIdentifier: 
+  Word: {fileID: 8814996677927038444, guid: 476c0572b14e0e24c879b7c96cede294, type: 3}
+  SentenceLine: {fileID: 4352447625298453346, guid: fbc23c131e09f5d43a0107ae884a81e1, type: 3}
+  sentenceEnglish: TODAY IS MY BIRTHDAY, NICE TO MEET YOU, OKAY, FIFTY YUAN
+  words:
+  - "J\u012Bnti\u0101n sh\xEC w\u01D2 de sh\u0113ngr\xEC"
+  - "H\u011Bn g\u0101ox\xECng r\xE8nsh\xEC n\u01D0,"
+  - "H\u01CEo de"
+  - "W\u01D4sh\xED yu\xE1n"
+  audio: []

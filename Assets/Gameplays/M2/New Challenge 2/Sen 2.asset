@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7f7ec01eb97f254cb423600df9b69e2, type: 3}
+  m_Name: Sen 2
+  m_EditorClassIdentifier: 
+  Word: {fileID: 8814996677927038444, guid: 337de3aa0dea6c94e9a3eb39e81b72c9, type: 3}
+  SentenceLine: {fileID: 4352447625298453346, guid: fbc23c131e09f5d43a0107ae884a81e1, type: 3}
+  sentenceEnglish: Today is my birthday
+  words:
+  - 
+  - 
+  - 
+  - 
+  audio:
+  - {fileID: 8300000, guid: a3eb029f858ac864b838523ffc797c5d, type: 3}
+  - {fileID: 8300000, guid: 31ca5a61acc8bde43ae83402c30a03b1, type: 3}
+  - {fileID: 8300000, guid: c0c91069cb0c85c4ba73bf1fdc6a9e9c, type: 3}
+  - {fileID: 8300000, guid: 25b0350cea5f918469ee0c12a4ee00e1, type: 3}

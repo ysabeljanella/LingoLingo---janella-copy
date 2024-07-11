@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 541e36af945871e41bfc86d6eb8acf34, type: 3}
+  m_Name: Module1
+  m_EditorClassIdentifier: 
+  leftGameObject: {fileID: 6339846399392784271, guid: aad9139bd6b4d504c8ff5e1b7630968c, type: 3}
+  rightGameObject: {fileID: 6339846399392784271, guid: 37370dadf7e40b94fbd8456d87445d3e, type: 3}
+  Lefts:
+  - Hello
+  - My Name is
+  - Nice to meet you
+  - Thank you
+  - You're welcome
+  Rights:
+  - "N\u01D0 h\u01CEo"
+  - "W\u01D2 de m\xEDngz\xEC sh\xEC "
+  - "H\u011Bn g\u0101ox\xECng r\xE8nsh\xEC n\u01D0"
+  - "Xi\xE8xi\xE8"
+  - "B\xF9 k\xE8q\xEC"

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ff0a594423dfb4429de9a648ee52296, type: 3}
+  m_Name: Question3
+  m_EditorClassIdentifier: 
+  answerButtonPrefab: {fileID: 2524743207634652419, guid: 2c9c0bba557649c448d899b6b6e7b92e, type: 3}
+  question: "What does \"\u4F60\u5728\u54EA\u91CC\u51FA\u751F\uFF1F\" (N\u01D0 z\xE0i
+    n\u01CEl\u01D0 ch\u016Bsh\u0113ng?) mean in English? "
+  answers:
+  - Where are you now?
+  - 'Where do you live? '
+  - Where were you born?
+  - Where do you work?
